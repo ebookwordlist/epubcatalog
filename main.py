@@ -27,6 +27,7 @@ def get_catalog(book_path):
             pass
         else:
             print(cata)
+            print("\n")
 
     print("\n----\n")
 
